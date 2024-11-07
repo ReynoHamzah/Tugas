@@ -1,0 +1,47 @@
+.container {
+    width: 900px;
+    margin: auto;
+}
+
+.loho img {
+    width: 150px;
+    height: 100px;
+}
+
+.nav ul{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
+
+.header {
+    display: flex;
+}
+
+.sekolah {
+    margin-left: 20px;
+}
+
+.home {
+    background-color: aqua;
+}
+
+.galeri {
+    background-color: black;
+}
+
+.jadwal {
+    background-color: darkslategray;
+}
+
+.kegiatan {
+    background-color: burlywood;
+}
+
+.kontak {
+    background-color: blueviolet;
+}
+
+.sejarah {
+    background-color: antiquewhite;
+}
